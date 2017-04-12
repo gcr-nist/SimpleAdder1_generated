@@ -3,14 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.webgme.guest</groupId>
-    <artifactId>SimpleAdder1_root</artifactId>
+    <artifactId>SimpleAdder_root</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>SimpleAdder1-java</artifactId>
   <packaging>pom</packaging>
   <modules>
-    <module>SimpleAdder1-base-java</module>
-    <module>SimpleAdder1-rti-java</module>
+    <module>SimpleAdder-base-java</module>
+    <module>SimpleAdder-rti-java</module>
     <module>SimpleAdder1</module>
   </modules>
   <dependencies>
